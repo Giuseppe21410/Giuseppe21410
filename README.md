@@ -6,8 +6,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/giusepp_ick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giusepp_ick" height="30" width="40" /></a>
-</p>
-<p align="left">
 <a href="https://www.freecodecamp.org/espanol/Giuseppe_21" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54R8R2Q7bQbDfrSaWFaAikaajP6AaXku-Wg&s" alt="giusepp_ick" height="30" width="40" /></a>
 </p>
 
