@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/giusepp_ick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giusepp_ick" height="30" width="40" /></a>
-<a href="https://www.freecodecamp.org/espanol/Giuseppe_21" target="blank"><img align="center" src="https://img.icons8.com/win10/600/FFFFFF/free-code-camp.png" alt="giusepp_ick" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/espanol/Giuseppe_21" target="blank"><img align="center" src="https://img.icons8.com/win10/600/FFFFFF/free-code-camp.png" alt="giusepp_ick" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
