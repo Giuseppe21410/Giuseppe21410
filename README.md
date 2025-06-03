@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giuseppe</h1>
 <h3 align="center">A son asked his father (a programmer) why the sun rises in the east and sets in the west. His answer? It works, don’t touch it!</h3>
 
-<p align="end"> <img src="https://komarev.com/ghpvc/?username=giuseppe21410&label=Profile%20views&color=0e75b6&style=flat" alt="giuseppe21410" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
